@@ -8,6 +8,17 @@ The goal of this dashboard is to provide charts, maps, and interactive visualiza
 
 In this homework assignment, it was asked to complete the following tasks:
 
-1. [Complete a notebook of rental analysis](#rental_analysis.ipynb).
+1. Complete a notebook of rental analysis.
 
-2. [Create a dashboard of interactive visualizations to explore the market data](#Dashboard).
+2. Create a dashboard of interactive visualizations to explore the market data.
+
+
+Insights taken from this data:
+
+- Average Sale Price per Square Feet per neighborhood
+- Average Monthly Rent per neighborhood
+- Top 10 Most Expensive Neighborhoods (with information of Average Rent and Sale Price)
+- Interactive map with the average house value per neighborhood
+
+
+
